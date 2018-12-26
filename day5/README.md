@@ -2,7 +2,7 @@
 
 **_How to prepare for tech interviews_**
 
-So I was going through this interesting blog and found some key points one should always remember while preparing for a tech interview: https://www.forbes.com/sites/ciocentral/2011/03/08/10-secrets-to-getting-a-job-at-apple-google-or-microsoft/#44bad103e771
+So I was going through this interesting blog and found some key points one should always remember while preparing for a tech interview: https://www.forbes.com/sites/ciocentral/2011/03/08/10-secrets-to-getting-a-job-at-apple-google-or-microsoft
 
 1. Do side projects to learn and improve tech skills
 2. Create an Online Portfolio displaying your skills
