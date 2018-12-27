@@ -19,6 +19,7 @@ Please note that, I (@MadhavBahlMD) will be writing the methods and answers whic
 - [Day 3 -- What are your strengths](./day3/)
 - [Day 4 -- What are your weaknesses](./day4/)
 - [Day 5 -- How to get a job in top coding companies](./day5/)
+- [Day 6 -- What do you know about the company](./day6/)
 
 ### Special Thanks
 
