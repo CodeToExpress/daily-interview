@@ -1,18 +1,25 @@
-# Interview Discussion Day 1 -- Today's Topic
+# Interview Discussion Day 7 -- Today's Topic of Discussion
 
-**Things to keep in mind during an interview**
+**_Whiteboard Interview Setting_**
 
-## Common views
+If you are sitting for any tech or coding interview, most probably you are going to face a whiteboard interview round. So how does it look like? Let's Discuss it today 😁
 
-- Always be calm, and answer the question that has been asked (An interview is not a high school term-end paper where you can write stories and get marks).
-- Always think in a positive direction, negative answers reflect your negative attitude towards things
-- Don’t try to memorize the answers, just have many sessions of mock interviews before attempting any interview so that it doesn't seem overwhelming
-- Sell what the buyer wants to buy! Match your abilities with the needs of the employer
-- Think for a moment before you answer, a pause is better than a wrong answer
-- Try to turn weakness into strengths, but never try to hide any weakness
-- Be optimistic and believe in yourself
-- BE HONEST, NEVER LIE
+So probably when it's your turn, you are going to walk into a sort of meeting room, with a whiteboard. After some basic talks your interviewer will take you to the whiteboard, write a problem on the board and you will be told to solve it. 
 
-### Want to add more? or find something wrong? or want to give your views? 
+For example, he might write an array of unsorted integers on the board and ask you what sorting algorithm should you use for maximum efficiency and write the code (or, pseudocode) for it and also explain it.
 
-**Just create an issue with the title "Interview Discussion Day 1: My Views" and add your views in the description**
+In most cases you are allowed t use the language of your choice, still, you can ask "Which language can (or, should) I use", just to be sure.
+
+So, here are some tips for your next whiteboard interview 😉
+
+👉 Never be afraid to ask your "clarifying" questions, a question is better than a wrong assumption
+👉 Make use of your time efficiently, act quick (The interviewer won't wait for you till eternity)
+👉 Practice coding questions regularly (Why not join our Daily Codes Initiative? 😉)
+👉 Have mock interviews (Simulate the actual experience)
+👉 See videos (youtube has got quite a lot of em) on whiteboard interviews
+👉 Keep explaining your thought process to the interviewer (don't just stand their blank or write code silently)
+👉 Stay calm and confident!
+
+### Want to add more? or find something wrong? or want to give your views?
+
+**Just create an issue with the title "Interview Discussion Day 7: My Views" and add your views in the description**

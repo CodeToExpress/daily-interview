@@ -15,4 +15,4 @@ Here are some pieces of advice 😃
 
 ### Want to add more? or find something wrong? or want to give your views?
 
-**Just create an issue with the title "Interview Discussion Day 5: My Views" and add your views in the description**
+**Just create an issue with the title "Interview Discussion Day 6: My Views" and add your views in the description**
