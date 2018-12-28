@@ -12,12 +12,18 @@ In most cases you are allowed t use the language of your choice, still, you can 
 
 So, here are some tips for your next whiteboard interview 😉
 
-👉 Never be afraid to ask your "clarifying" questions, a question is better than a wrong assumption
+👉 Never be afraid to ask your "clarifying" questions, a question is better than a wrong assumption.
+
 👉 Make use of your time efficiently, act quick (The interviewer won't wait for you till eternity)
+
 👉 Practice coding questions regularly (Why not join our Daily Codes Initiative? 😉)
+
 👉 Have mock interviews (Simulate the actual experience)
+
 👉 See videos (youtube has got quite a lot of em) on whiteboard interviews
+
 👉 Keep explaining your thought process to the interviewer (don't just stand their blank or write code silently)
+
 👉 Stay calm and confident!
 
 ### Want to add more? or find something wrong? or want to give your views?
