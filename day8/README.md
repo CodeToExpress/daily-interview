@@ -13,9 +13,13 @@ Think -> Solve -> Code repeat!
 Yes, when under these type of situations, 
 
 👉 clear your mind a bit
+
 👉 Think about the problem
+
 👉 Take a sample input and try to solve the given question using that input
+
 👉 Convert your thinking into code
+
 👉 repeat if you find something wrong or you get stuck
 
 When you start solving the problem using some sample input, you actually start figuring ouot some ways on how the problem can be solved, so I personally love this approach of problem solving 😁
