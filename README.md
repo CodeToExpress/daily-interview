@@ -22,8 +22,7 @@ Please note that, I (@MadhavBahlMD) will be writing the methods and answers whic
 - [Day 6 -- What do you know about the company](./day6/)
 - [Day 7 -- Whiteboard Interview Setting](./day7/)
 - [Day 8 -- How to approach coding question when you are under pressure](./day8/)
-
-
+- [Day 9 -- The "in-interview" silence](./day9/)
 
 ### Special Thanks
 
