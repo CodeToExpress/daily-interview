@@ -1,10 +1,10 @@
 # Interview Discussion Day 12 -- Today's Topic
 
-**Things to avpoid during an interview**
+**Things to avoid during an interview**
 
-Whenever you ask someone an advice for interview, no matter whom you are asking, from all the answers, you will find one common thing, everyone will tell you to do some mock interviews beforehand. 
+Whenever you ask someone advice for an interview, no matter whom you are asking, from all the answers, you will find one common thing, everyone will tell you to do some mock interviews beforehand. 
 
-Yes, mock interviews not only buildsd confidence, but also when you give mock interviews you keep finding the mistakes you did and learn from them.
+Yes, mock interviews not only builds confidence, but also when you give mock interviews you keep finding the mistakes you did and learn from them.
 
 So here are some common mistakes people make during interviews. AVOID THEM!
 
