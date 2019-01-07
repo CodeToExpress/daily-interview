@@ -26,6 +26,7 @@ Please note that, I (@MadhavBahlMD) will be writing the methods and answers whic
 - [Day 10 -- The Post-Interview Silence](./day10/)
 - [Day 11 -- What questions should I ask my interviewer](./day11/)
 - [Day 12 -- Things to avoid during an interview](./day12/)
+- [Day 13 -- Reasons behind the tricky and "Not So Pleasent" interview questions](./day13)
 
 ### Special Thanks
 
