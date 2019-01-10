@@ -1,4 +1,4 @@
-# Interview Discussion Day 16 -- Today's Topic of Discussion
+﻿# Interview Discussion Day 16 -- Today's Topic of Discussion
 
 **Writing code? Have you checked enough sample inputs? 🤔💭**
 
@@ -9,9 +9,13 @@ Going through some sample inputs and coming up with more examples sure helps you
 Here's what I generally do 🧐
 
 👉 Take very simple examples and find the output 💆‍♂
+
 👉 Take more complex and bigger inputs to see what will be the output, how many use cases do we want 👨‍💻
+
 Time to handle the edge cases
+
 👉 Try out problem with no input, what should be the output now 😵
+
 👉 Try out problem with invalid input, what should be the output now 🤔
 
 Don't you think the same can be done while performing unit tests in software development too? 💭
