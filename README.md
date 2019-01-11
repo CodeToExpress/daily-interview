@@ -30,6 +30,7 @@ Please note that, I (@MadhavBahlMD) will be writing the methods and answers whic
 - [Day 14 -- What are your hobbies?](./day14)
 - [Day 15 -- Don't you think you are overqualified for this job?](./day15)
 - [Day 16 -- Writing code? Have you checked enough sample inputs?](./day16)
+- [Day 17 -- How many internships should I do as a student?](./day17)
 
 ### Special Thanks
 
