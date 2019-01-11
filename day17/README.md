@@ -1,4 +1,4 @@
-# Interview Discussion Day 1 -- Today's Topic
+﻿# Interview Discussion Day 17 -- Today's Topic
 
 **🤔 "How many internships should I do as a student?" 🤔**
 
@@ -26,4 +26,4 @@ What do you think? 💭
 
 ### Want to add more? or find something wrong? or want to give your views? 
 
-**Just create an issue with the title "Interview Discussion Day 1: My Views" and add your views in the description**
+**Just create an issue with the title "Interview Discussion Day 17: My Views" and add your views in the description**
