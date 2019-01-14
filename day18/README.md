@@ -12,21 +12,33 @@ So let's have a look at some pros and cons of freelancing today, and will do it 
 Pros of Freelancing 🤩
 
 👉 More flexibility, not a 9 to 5 job basically
+
 👉 Many people freelance for side income while they are a student
+
 👉 Earn while you learn. Many people start freelancing while they are still learning a skill
+
 👉 No "Office Politics"
+
 👉 Choose your own work hours
+
 👉 Choose the work you want to do
+
 👉 Bargain the amount you will be getting
 
 Cons of freelancing 😔
 
 👉 Income/Salary is not fixed, it depends on how much work you get
+
 👉 No employee benefits (like holidays, insurance, paid vacations, bonuses, other prizes etc)
+
 👉 Lack of working environment which one gets in office
+
 👉 Again, the employer can also bargain the amount to be paid (taking this point as a pro or con depends on your skills)
+
 👉 Your employer might follow up too much, which makes the job annoying
+
 👉 Frequent changes in deliverables
+
 👉 Unprofessional employers (sometimes)
 
 So I guess you have an idea about freelance jobs now, tomorrow we'll discuss about permanent jobs, then it'll be more clear whether to go for freelancing or permanenet job 😊
