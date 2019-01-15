@@ -8,18 +8,29 @@ Yesterday we looked on some pros and cons of freelancing, today, let's have a lo
 Pros of fixed job 🌟
 
 👉 Benefits like bonuses, paid vacations, retirement funds etc
+
 👉 More Job security
+
 👉 Fixed Income
+
 👉 Job is much more stable and the work is (generally) more organised
+
 👉 Professional environment
+
 👉 Fixed deliverables (depending on the role)
+
 👉 A working environment, and sense of belonging to a community
 
 Cons of fixed job 😩 
+
 👉 Low or no flexibility as compared to freelancing
+
 👉 Fixed hours, 
+
 👉 Career generally starts from a junior role, may take a lot of time to increase your "ranking" or "profile"
+
 👉 (Generally) very less holidays
+
 👉 Office Politics
 
 These were some general pros and cons of a salaried job, Do add on the points through issues 😃
