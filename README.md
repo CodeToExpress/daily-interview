@@ -33,6 +33,7 @@ Please note that, I (@MadhavBahlMD) will be writing the methods and answers whic
 - [Day 17 -- How many internships should I do as a student?](./day17)
 - [Day 18 -- Freelancing or salary job?](./day18)
 - [Day 19 -- Freelancing or salary job? (Part 2)](./day19)
+- [Day 20 -- Freelancing or Salary Job? One Last Post](./day20)
 
 ### Special Thanks
 
