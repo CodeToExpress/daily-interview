@@ -13,10 +13,15 @@ In both the cases, a good answer would include what "this" company is offering �
 Yes, so you might want to add these points in your answer
 
 👉 The role that is being offered
+
 👉 How "this" opportunity is attractive to you
+
 👉 How the location of company is suitable to you
+
 👉 Your previous experience in the role being offered
+
 👉 How much you love that role
+
 👉 Try to focus on the plus points of "this" company, which might include the work ethics, office culture, location, etc
 
 Here's a blog which gives 3 sample answers to this question: https://www.campusgate.co.in/2014/02/describe-your-ideal-company-location.html
