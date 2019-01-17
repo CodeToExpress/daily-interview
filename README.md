@@ -34,6 +34,7 @@ Please note that, I (@MadhavBahlMD) will be writing the methods and answers whic
 - [Day 18 -- Freelancing or salary job?](./day18)
 - [Day 19 -- Freelancing or salary job? (Part 2)](./day19)
 - [Day 20 -- Freelancing or Salary Job? One Last Post](./day20)
+- [Day 21 -- Ideal company, location and job?](./day20)
 
 ### Special Thanks
 
