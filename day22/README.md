@@ -7,11 +7,17 @@ All those who have attempted any interview, or are going to attempt any job inte
 Here are some of the reasons I tell everyone to go through several mock interviews before sitting in the real interview
 
 👉 Consistent practice develops skill
+
 👉 Mock interviews help to reduce the stress and anxiety about interviews
+
 👉 Interviews won't feel difficult after continuous practice
+
 👉 It increases your confidence
+
 👉 You get to analyse yourself, where you went wrong and where you were good
+
 👉 Getting continuous feedbacks
+
 👉 Develop that body language that is needed in behavioral interviews through continuous practice
 
 and apart from these, of course when you practise a lot for something, fear becomes excitement 😍😁
