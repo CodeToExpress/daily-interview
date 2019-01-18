@@ -35,6 +35,7 @@ Please note that, I (@MadhavBahlMD) will be writing the methods and answers whic
 - [Day 19 -- Freelancing or salary job? (Part 2)](./day19)
 - [Day 20 -- Freelancing or Salary Job? One Last Post](./day20)
 - [Day 21 -- Ideal company, location and job?](./day21)
+- [Day 22 -- Importance of mock initerviews](./day22)
 
 ### Special Thanks
 
