@@ -1,7 +1,5 @@
 # Interview Discussion Day 31 -- Today's Topic
 
-**Will you leave this job if some other company offers you a higher pay?**
-
 **✅ Tips while writing a follow-up email ✅**
 
 I seriously think that writing a followup mail is also a skill 🤩
